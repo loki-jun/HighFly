@@ -1,6 +1,7 @@
 # HighFly
-文件结构说明
-booking-system/
+文件结构说明 
+=======================
+booking-system/<br />
 ----db.sqlite3
 ----manage.py
 ----templates/
